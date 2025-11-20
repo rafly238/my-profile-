@@ -92,8 +92,8 @@ body {
 }
 /* RIGHT SIDE */
 .right-side {
-    background-color: rgb(189, 170, 0);
-    color: white;
+    background-color: rgb(187, 221, 37);
+    color: rgb(0, 0, 0);
 }
 .name-container {
     margin-top: 150px;
